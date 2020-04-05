@@ -81,4 +81,6 @@ prop      | type                 | default value
 
 [MIT License](https://github.com/cssivision/react-native-qrcode/blob/master/LICENSE).
 
-## Modfify By [SRY](https://github.com/sorayuth10/).
+## Modfify
+
+By [SRY](https://github.com/sorayuth10/).
