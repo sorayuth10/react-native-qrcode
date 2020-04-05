@@ -1,4 +1,4 @@
-![react-native-qrcode](https://www.npmjs.com/package/react-native-qrcode) ver.0.2.7 is modify for [react-native-webview](https://www.npmjs.com/package/react-native-webview) (seperate from react-native)
+[react-native-qrcode](https://www.npmjs.com/package/react-native-qrcode) ver.0.2.7 is modify for [react-native-webview](https://www.npmjs.com/package/react-native-webview) (seperate from react-native).
 
 ---
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code)
@@ -81,4 +81,4 @@ prop      | type                 | default value
 
 [MIT License](https://github.com/cssivision/react-native-qrcode/blob/master/LICENSE).
 
-#Modfify By [SRY](https://github.com/sorayuth10/).
+## Modfify By [SRY](https://github.com/sorayuth10/).
