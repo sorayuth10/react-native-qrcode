@@ -4,9 +4,13 @@
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code)
 
 ## Installation
+add in package.json
 ```sh
-npm install react-native-webview --save
-npm install react-native-qrcode --save
+"react-native-qrcode": "https://github.com/sorayuth10/react-native-qrcode.git",
+```
+install command
+```sh
+git+https://github.com/sorayuth10/react-native-qrcode.git,
 ```
 ## Usage
 ```jsx
